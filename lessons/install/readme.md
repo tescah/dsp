@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> Python 3 because course material for the bootcamp is compatible with Python versions 3.0. All HackerRank Python pre-work is configured for Python 3 only.  Therefore, Python 3 is the was installed. 
+>> Python 3 because course material for the bootcamp is compatible with Python versions 3.0. All HackerRank Python pre-work is configured for Python 3 only.  Therefore, Python 3  was installed. 
 
 ### Q2. Which Python Version Installed   
 
